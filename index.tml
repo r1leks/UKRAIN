@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Шкільні предмети</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <div class="card">
+        <img src="https://malyn.media/wp-content/uploads/2021/08/Druzhbivskyy-karier5-696x461.jpg" alt="Україньські мальдіви"> 
+        <div class="text">
+           <h2>Україньські мальдіви</h2>
+           <p>Дуже крута водичка. Як на мальдівах</p>
+           <a href="https://malyn.media/statti/cikavo/kudy-poikhaty-na-vykhidni-zhytomyrski-maldivy/">Житомирські Мальдіви</a>
+        </div>
+    </div>
+     <div class="card">
+        <img src="https://lh5.googleusercontent.com/p/AF1QipO0pcZDUME24b0pxlZNGJc4OJARVMDWmDLNh7OE=w548-h318-n-k-no" alt="столиця України">
+        <div class="text">
+           <h2>Київ це столиця України </h2>
+           <p>пізнаемо нашу культури</p>
+           <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2">Київ</a>
+        </div>
+     </div>
+     <div class="card">
+           <img src="https://lh5.googleusercontent.com/p/AF1QipMKtLUiDp_v2eeeXpmXdfO8J3WwQsjf3JWKMq17=w548-h318-n-k-no" alt="Львів">
+           <div class="text">
+           <h2>Львів  </h2>
+           <p>Львів перетинається з польшою</p>
+           <a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2">Львів</a>
+           </div>
+     </div>
+     <div class="card">
+           <img src="https://lh5.googleusercontent.com/p/AF1QipOh5707XNzana4juB4RRqESwnYRdGDUgZ7POzn1=w548-h318-n-k-no" alt="Бучя">
+           <div class="text">
+            <h2>Бучя</h2>
+            <p>Бучя дуже славиться своїми парками </p>
+            <a href="https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%87%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)">Бучя</a>
+           </div>
+     </div>
+     <div class="card">
+        <img src="https://lh5.googleusercontent.com/p/AF1QipNp7Ayt5P4H32D2IOCijO3i-uWimWTlMPDQCue2=w548-h318-n-k-no" alt="Житомир">
+        <div class="text">
+         <h2>Житомир</h2>
+         <p>Житомир це дуже красиве і велике місце</p>
+         <a href="https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80">Житомир</a>
+        </div>
+     </div>
+</body>
+</html>
